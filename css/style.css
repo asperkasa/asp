@@ -1,0 +1,26 @@
+body {
+	background: #b3b3b3;
+}
+
+.bersih{
+	padding-top: 50px;
+}
+.bersih {
+        text-decoration: none;
+}
+.bersih h2{
+	font-family: "Times New Roman", Times, serif;
+	padding-bottom: 10px;
+}
+.bersih button{
+	text-decoration: none;
+}
+.bersih button a{
+	color: #ffffff;
+}
+
+.tengah{
+}
+.tengah img{
+
+}
